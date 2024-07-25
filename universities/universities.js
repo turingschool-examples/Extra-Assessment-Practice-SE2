@@ -38,9 +38,9 @@ const universities = {
 
 // Level Two
 // findSchoolEnrollment('osu')
-    // --> 'Ohio State University has 61369 students.'
+    // expected result --> 'Ohio State University has 61369 students.'
 // findSchoolEnrollment('ucsb')
-    // --> 'University of California, Santa Barbara has 24346 students.'
+    // expected result --> 'University of California, Santa Barbara has 24346 students.'
 
 
 
@@ -48,9 +48,11 @@ const universities = {
 
 // Level Three
 // findSchoolByMajor('biology') 
-    // --> ['Ohio State University', 'University of California, Santa Barbara']
+    // expected result --> 
+      //['Ohio State University', 'University of California, Santa Barbara']
 // findSchoolByMajor('business') 
-    // --> ['Ohio State University', 'Colorado State University', 'University of California, Santa Barbara']
+    // expected result --> 
+      //['Ohio State University', 'Colorado State University', 'University of California, Santa Barbara']
 
 
 

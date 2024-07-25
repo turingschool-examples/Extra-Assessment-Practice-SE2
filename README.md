@@ -1,6 +1,8 @@
 # Extra-Assessment-Practice-SE2
 
-These prompts provide additional assessment-style practice for data manipulation with JS prototype methods.  Pay close attention to what the prompts are asking you.  When in doubt, post a clarifying question in Slack.
+These prompts provide additional assessment-style practice for data manipulation with JS prototype methods.
+
+Pay close attention to what the prompts are asking you.  When in doubt, post a clarifying question in Slack.
 
 There is no test suite to accompany these prompts.  Pay close attention to detail to ensure your result is the expected result.
 
@@ -16,3 +18,6 @@ Each folder has:
 - run `npm install`
 
 Each markdown file contains the terminal command to run the code in its corresponding js file.
+
+Note: Some prompts are working with a dataset that is an object.  You may, or may not, need to reach for Object.keys().  
+**Object.keys() will not be needed for your midmod or final assessments.** 

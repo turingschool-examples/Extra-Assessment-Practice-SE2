@@ -19,7 +19,7 @@ Each folder has:
 
 Each markdown file contains the terminal command to run the code in its corresponding js file.
 
-Note: Some prompts are working with a dataset that is an object.  You may, or may not, need to reach for Object.keys().  
+Note: Some prompts are working with an object dataset.  You may, or may not, need to reach for Object.keys().  
 **Object.keys() will not be needed for your midmod or final assessments.** 
 
 The methods you **do** need to be comfortable with for assessments are:

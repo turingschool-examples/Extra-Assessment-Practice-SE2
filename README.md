@@ -19,6 +19,7 @@ Each folder has:
 
 Each markdown file contains the terminal command to run the code in its corresponding js file.
 
+## Expectations
 Note: Some prompts are working with an object dataset.  You may, or may not, need to reach for Object.keys().  
 
 🚨**Object.keys() will not be needed for your midmod or final assessments.** 
@@ -32,3 +33,20 @@ The methods you **do** need to be comfortable with for assessments are:
 - includes
 - split 
 - join
+
+
+## Checklist
+
+If you'd like to keep track of your progress, feel free to use the checklist below. Change the [ ] to [x] in order to check off each item.
+
+- [ ] crafting
+- [ ] gear maintenance
+- [ ] pets
+- [ ] plants
+- [ ] road trip
+- [ ] sentence
+- [ ] students
+- [ ] tasks
+- [ ] trails
+- [ ] universities
+

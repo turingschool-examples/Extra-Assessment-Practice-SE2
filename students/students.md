@@ -37,12 +37,12 @@ findEnrolledStudents() // expected result ==> ["John", "Bob", "Eve"]
 Write a function that takes in a student's name and returns that student's average grade.
 
 ```js
-getAverageGrade("John") // ==> 86.25
+getAverageGrade("John") // expected result ==> 86.25
 ```
 
 ## Level Three
 Write a function that finds the name of the student with the highest average grade.
 
 ```js
-findBestAverageGrade() // ==> "Eve"
+findBestAverageGrade() // expected result ==> "Eve"
 ```

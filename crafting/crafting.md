@@ -1,6 +1,6 @@
 # Crafting
 
-Once students encounter Object.keys() they often panic and assume they need to use it anytime their dataset is an object. These practice prompts will help you practice manipulating the universities data set object with and _without_ needing to reach for Object.keys().
+Once students encounter Object.keys() they often panic and assume they need to use it anytime their dataset is an object. These practice prompts will help you practice manipulating the crafting data set object _with_ and _without_ needing to reach for Object.keys().
 
 Note: you will not need Object.keys() for midmods or final assessments.
 
